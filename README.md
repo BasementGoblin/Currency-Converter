@@ -11,3 +11,7 @@ to the API.
 
 Contains the WPF application.
 Mostly handles the interface.
+___
+The API can be found here:
+
+https://exchangeratesapi.io/
