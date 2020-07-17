@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dUU6oZFABUCoJTlr6ag/h81jspXw0mfzDZhBCOgpAu6Q/3ayJkGPrWywfAQd3COYwYOL2ZS76+whHMNm5AoDZg==",
+  "success": true,
+  "projectFilePath": "D:\\Programing Projects\\CurrencyConverterSolution\\APILibrary\\APILibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sebastian\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Sebastian\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
